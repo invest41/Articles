@@ -43,7 +43,7 @@ By New Year, I had renewed energy and I decided to follow the Data Science track
 By late January, 2021, Virtual classes started in the College of Medicine (Yeah, I'm a Medic). <br/>
 After leaving school for more than half-a-year, since the beginning of the lockdown in Nigeria, things began looking like they were going back to normal.
 
-I slowed down. First gradually, then when activities in school picked up, it became really stressful to pick us pace like before. <br/>
+I slowed down. First gradually, then when activities in school picked up, it became really stressful to pick up pace like before. <br/>
 I decided to draft a proper schedule.
 
 Eventually, I found a way to balance things. I maintained my development pace and increased my proficiency in Machine Learning gradually, although this took a lot of effort balancing it with School Work. 

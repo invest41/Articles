@@ -24,9 +24,9 @@ Some historians have suggested, that anagrams originated in the 4th century B.C.
 Anagrams are fun linguistic phenomena to observe, but yet, one wonders if computers can be made to detect them too...  
 This thought brings to light the concept that, while computers are indeed fast, they still do not possess any human-like quality of intelligence, as we are all too familiar with, and as such would definitely need to be instructed to see patterns that exist in human language.  
   
-Due to the Peculiarities of this task, a program would be written to give specific procedural instructions, on computational tasks to carry out.
+Due to the peculiarities of this task, a program would be written to give specific procedural instructions, on computational tasks to carry out.
 
-To begin one needs to understand that two (2) popular [paradigms of coding](https://www.geeksforgeeks.org/introduction-of-programming-paradigms/) exist:
+To begin, one needs to understand that two (2) popular [paradigms of coding](https://www.geeksforgeeks.org/introduction-of-programming-paradigms/) exist:
 - [Procedural Programming](https://www.techgeekbuzz.com/procedural-programming/)
 - [Object Oriented Programming](https://www.geeksforgeeks.org/object-oriented-programming-in-cpp/)
 

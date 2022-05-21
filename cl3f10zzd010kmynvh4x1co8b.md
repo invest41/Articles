@@ -2,7 +2,7 @@
 
 ### **What is Human?**  
 Humans are unique, with one trait standing out the most: our reasoning ability. 
-The [earth is approximately 4.54 billion years old](https://www.nationalgeographic.org/topics/resource-library-age-earth/?q=&page=1&per_page=25&msclkid=d77c6f45cef911ec8b681f2ff17bc6bc), but the modern human has only been around for just [the last 200,000 years](https://www.universetoday.com/38125/how-long-have-humans-been-on-earth/?msclkid=58e204b4cefa11eca7cf561d5c33f5d9), which is quite insignificant in duration. Nevertheless, we’ve evolved to be the technologically advanced species, that we are today, in that span.
+The [earth is approximately 4.54 billion years old](https://www.nationalgeographic.org/topics/resource-library-age-earth/?q=&page=1&per_page=25&msclkid=d77c6f45cef911ec8b681f2ff17bc6bc), but modern humans have only been around for just [the last 200,000 years](https://www.universetoday.com/38125/how-long-have-humans-been-on-earth/?msclkid=58e204b4cefa11eca7cf561d5c33f5d9), which is quite insignificant in duration. Nevertheless, we’ve evolved to be the technologically advanced species, that we are today, in that span.
 What’s so unique about us? Let’s find out...
 
 <a href="https://www.researchgate.net/figure/Biological-Neuron-versus-Artificial-Neural-Network_fig4_325870973"><img src="https://www.researchgate.net/profile/Brian-Mwandau/publication/325870973/figure/fig4/AS:639531594297345@1529487622181/Biological-Neuron-versus-Artificial-Neural-Network.png" alt="1: Biological Neuron versus Artificial Neural Network"/>[source](https://www.researchgate.net/figure/Biological-Neuron-versus-Artificial-Neural-Network_fig4_325870973 )</a>
@@ -11,7 +11,7 @@ What’s so unique about us? Let’s find out...
 Neuroscience is a [multidisciplinary](https://books.google.com.ng/books?id=xfSVcBL7CSMC&q=neuroscience+multidisciplinary&pg=PA59&redir_esc=y#v=snippet&q=neuroscience%20multidisciplinary%20subject&f=false) field that combines physiology, anatomy, molecular biology, developmental biology, cytology, physics, computer science, chemistry and mathematical modeling to understand the fundamental and emergent properties of neurons, glia and neural circuits[.](https://en.wikipedia.org/wiki/Neuroscience)  
 
 It is an ever evolving field. The more researchers get to discover, the more their [conviction on the complexity of the human neurological system](https://www.jneurosci.org/content/40/1/101?msclkid=bc3a82a2cefb11ec9964d5767c3a7362#ref-4), leading to [varied opinions from experts](https://www.jneurosci.org/content/40/1/101?msclkid=bc3a82a2cefb11ec9964d5767c3a7362) on its vastness.  
-Let's try to understand the uniqueness of the brain. For the sake of this write-up, 5 simple comparisons would made with computing devices:  
+Let's try to understand the uniqueness of the brain. For the sake of this write-up, 5 simple comparisons would be made with computing devices:  
   
 - The brain is made up of primary functional units, which are cells called neurons along with their supporting tissue, this can be compared to the circuits of a CPU and its supporting hardware.
 
@@ -79,7 +79,7 @@ Invariably this development, has increased the frequency of debates on the gener
 Medical experts do not see a take over happening, but rather, more of [A.I. augmenting work in healthcare](https://youtu.be/PZQMyj-9z-w) as it is a field saturated with complex protocols and procedures, and if such a take over is ever to be, then [it’s likely years away](https://www.forbes.com/sites/forbestechcouncil/2019/03/15/ai-will-not-replace-doctors-but-it-may-drastically-change-their-jobs/?sh=2faeaa53636a). Although, as human beings we've learnt to never underestimate the growth and trajectory of human technology.  
  
   
-Right now, studies in [Diagnostic Radiology](https://arxiv.org/abs/2004.10507), [Cancer Research](https://arxiv.org/abs/1606.05718) and [Dentistry](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6502856/) are being undertaken by top medical institutes with funding supplied by top organizations (i.e. Google, Meta, Nividia, etc.), with Centres of learning being established and dedicated, to the study of the applications of Artificial Intelligence in healthcare as well as the [ethical issues](https://plato.stanford.edu/entries/ethics-ai/) its use might spawn.
+Right now, studies in [Diagnostic Radiology](https://arxiv.org/abs/2004.10507), [Cancer Research](https://arxiv.org/abs/1606.05718) and [Dentistry](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6502856/) are being undertaken by top medical institutes with funding supplied by top organizations (i.e. Google, Meta, Nividia, etc.), with Centres of learning being established and dedicated, to the study of the applications of Artificial Intelligence in healthcare, as well as the [ethical issues](https://plato.stanford.edu/entries/ethics-ai/) its use might spawn.
   
 
 |  [<center><bold>Pneumonia Detection Using Retina Net</bold></center>](https://www.springml.com/blog/pneumonia-detection-using-retina-net/)|  |

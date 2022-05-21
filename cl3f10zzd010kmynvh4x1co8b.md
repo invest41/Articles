@@ -46,15 +46,15 @@ Let's try to understand the uniqueness of the brain. For the sake of this write-
 
 <br/> 
 When you try to think about deep learning, think about it in terms of functionalities you've seen on computing devices, that **seem** to perform at human-like intelligence.  
-Few examples of such are:
-- Image Augmentation - [Demo](https://huggingface.co/spaces/akhaliq/GFPGAN) 
-- [Face recognition](https://machinelearningmastery.com/introduction-to-deep-learning-for-face-recognition/)
-- [Speech Recognition](https://deepgram.com/blog/deep-learning-speech-recognition/)
-- Speech Augmentation - [Demo](https://coqui.ai/demo)
-- [Digital assistants](https://9to5mac.com/2017/08/23/evolution-siri-machine-learning-journal/)
-- [Self-driving cars](https://blogs.nvidia.com/blog/2019/04/30/drive-labs-path-perception/?ncid=so-you-t7-84204)
-- Image-to-Text technology (i.e. [Google Lens](https://lens.google/))
-- [Text-to-Image technology (Generating visual interpretations of written sentences)](https://openai.com/blog/dall-e/)([Demo](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbjRrTnphcTVReXRvbDdIZ2pXYU1Jc3pnVXpoQXxBQ3Jtc0tsNWtJVEQ4OWdWcXB1a0lLdTc3b2t2NFJKTHlNLWJWMHFXYmRScGlwOEtQWnVjUTlrR0ZwLWFxTlJ2aWs2U2prTUJZVlFkeUg1aG94cVAwUS13UUk1MVZpVndvbFEyX3Z2ZGo2a3JCSDZ6eFc2aUFVYw&q=https%3A%2F%2Fbit.ly%2F2WRbDRf&v=YKUz2yDPFCE))
+Few examples of such are:  
+- Image Augmentation - [Demo](https://huggingface.co/spaces/akhaliq/GFPGAN)  
+- [Face recognition](https://machinelearningmastery.com/introduction-to-deep-learning-for-face-recognition/)  
+- [Speech Recognition](https://deepgram.com/blog/deep-learning-speech-recognition/)  
+- Speech Augmentation - [Demo](https://coqui.ai/demo)  
+- [Digital assistants](https://9to5mac.com/2017/08/23/evolution-siri-machine-learning-journal/)  
+- [Self-driving cars](https://blogs.nvidia.com/blog/2019/04/30/drive-labs-path-perception/?ncid=so-you-t7-84204)  
+- Image-to-Text technology (i.e. [Google Lens](https://lens.google/))  
+- [Text-to-Image technology (Generating visual interpretations of written sentences)](https://openai.com/blog/dall-e/)([Demo](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbjRrTnphcTVReXRvbDdIZ2pXYU1Jc3pnVXpoQXxBQ3Jtc0tsNWtJVEQ4OWdWcXB1a0lLdTc3b2t2NFJKTHlNLWJWMHFXYmRScGlwOEtQWnVjUTlrR0ZwLWFxTlJ2aWs2U2prTUJZVlFkeUg1aG94cVAwUS13UUk1MVZpVndvbFEyX3Z2ZGo2a3JCSDZ6eFc2aUFVYw&q=https%3A%2F%2Fbit.ly%2F2WRbDRf&v=YKUz2yDPFCE))  
 - [Drug Discovery](https://www.frontiersin.org/articles/10.3389/fmicb.2021.739684/full)  
 - Extra Demos: [Microsoft](https://aidemos.microsoft.com/), [Nvidia](https://www.nvidia.com/en-us/research/ai-demos/), [Expo1](https://medium.com/analytics-vidhya/10-ai-experiments-to-try-online-today-6e913777a02b), [Expo2](https://imerit.net/blog/15-crazy-ai-experiments-to-try-online-today-all-una/)  
   

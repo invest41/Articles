@@ -79,7 +79,7 @@ Invariably this development, has increased the frequency of debates on the gener
 Medical experts do not see a take over happening, but rather, more of [A.I. augmenting work in healthcare](https://youtu.be/PZQMyj-9z-w) as it is a field saturated with complex protocols and procedures, and if such a take over is ever to be, then [it’s likely years away](https://www.forbes.com/sites/forbestechcouncil/2019/03/15/ai-will-not-replace-doctors-but-it-may-drastically-change-their-jobs/?sh=2faeaa53636a). Although, as human beings we've learnt to never underestimate the growth and trajectory of human technology.  
  
   
-Right now, studies in [Diagnostic Radiology](https://arxiv.org/abs/2004.10507), [Cancer Research](https://arxiv.org/abs/1606.05718) and [Dentistry](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6502856/) are being undertaken by top medical institutes with funding supplied by top organizations (i.e. Google, Meta, Nividia, etc.), with Centres of learning being established and dedicated, to the study of the applications of Artificial Intelligence in healthcare as well as the [ethical issues](https://plato.stanford.edu/entries/ethics-ai/) that might spawn.
+Right now, studies in [Diagnostic Radiology](https://arxiv.org/abs/2004.10507), [Cancer Research](https://arxiv.org/abs/1606.05718) and [Dentistry](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6502856/) are being undertaken by top medical institutes with funding supplied by top organizations (i.e. Google, Meta, Nividia, etc.), with Centres of learning being established and dedicated, to the study of the applications of Artificial Intelligence in healthcare as well as the [ethical issues](https://plato.stanford.edu/entries/ethics-ai/) its use might spawn.
   
 
 |  [<center><bold>Pneumonia Detection Using Retina Net</bold></center>](https://www.springml.com/blog/pneumonia-detection-using-retina-net/)|  |
@@ -93,13 +93,13 @@ Right now, studies in [Diagnostic Radiology](https://arxiv.org/abs/2004.10507), 
 One must admit though, that simple repetitive tasks can and would be easily taken over by A.I., as humans cannot under any **natural** circumstance rival their computing power and speed, which is why popular debates [should never have included a Tech. Vs. Human premise.](https://medicalfuturist.com/5-reasons-artificial-intelligence-wont-replace-physicians/)
  
 It would always help, to imagine what healthcare teams would be capable of, if their creativity, associative reasoning, complex pattern recognition, and problem-solving skills, were combined with the tremendous computing power, extraordinary speed, and processing efficiency available to computing devices. We'd be simply augmenting our intelligence as humans, and such augmentations are needed to [broaden access to healthcare](https://medium.com/retina-ai-health-inc/artificial-intelligence-and-telemedicine-in-a-world-of-value-based-healthcare-a-deep-dive-311073d33ebf), especially in regions of the world with grossly [diminished medical man-power.](https://borgenproject.org/ai-in-african-healthcare-revolutionizing-the-industry/#:~:text=Future%20of%20AI%20in%20African%20Health%20Care%20Overall%2C,communicate%20with%20patients%20and%20provide%20more%20accurate%20diagnoses.)
-> The Average human is [ahead of A.I. systems](https://thenextweb.com/news/why-the-smartest-ai-is-still-dumber-than-a-toddler-and-how-we-can-fix-that) in predictive analysis, as we have a key sense of association,. The advantage with computers is that, with every predictive task they are successfully trained to solve, they would easily outperform any human just by sheer computing speed. [Your brain is 10 million times slower than a computer.](https://nautil.us/why-is-the-human-brain-so-efficient-7216/)
+> The Average human is [ahead of A.I. systems](https://thenextweb.com/news/why-the-smartest-ai-is-still-dumber-than-a-toddler-and-how-we-can-fix-that) in predictive analysis, as we have a key sense of association. The advantage with computers is that, with every predictive task they are successfully trained to solve, they would easily outperform any human just by sheer computing speed. [Your brain is 10 million times slower than a computer.](https://nautil.us/why-is-the-human-brain-so-efficient-7216/)
 
 ### **Conclusion**
 
 The race for the COVID-19 vaccine showed clearly, the value of state-of-the-art research. The potentials in placing oneself at the frontline of innovation, cannot be overstated, and humans who think further and do further, would achieve farther as our global society evolves.  
   
-A.I. is here to stay, despite the general outlook of its potential not being fully known, I strongly believe it is going to be a driving force for much greater global development, in coming years. 
+A.I. is here to stay, despite the general outlook of its potential not being fully known. I strongly believe it is going to be a driving force for much greater global development, in coming years. 
 
 <br/><br/>
 
